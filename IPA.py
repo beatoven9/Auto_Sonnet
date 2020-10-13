@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import sys
 import find_IPA
 #To do:     make a dictionary of IPA vowels so that in the ending syllable, we can chop off the leading consonant(s).
-#           put this in the set_ending_syll() function.
+#           put this in the set_ending_syll() method.
 
 class IPA:
 
