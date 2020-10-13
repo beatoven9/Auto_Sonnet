@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 from IPA import IPA
-import find_IPA
-from count_syllables import count_sylls
 import sys
 
 if __name__ == "__main__":
