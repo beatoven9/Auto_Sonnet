@@ -1,0 +1,72 @@
+{
+    "blue": {
+        "IPA": "blu",
+        "ending_syllable": "blu",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "january": {
+        "IPA": "\u02c8d\u0292\u00e6n yu \u02cc\u025br i",
+        "ending_syllable": "i",
+        "secondary_stress": 2,
+        "stressed_syllable": 0,
+        "syllable_count": 4
+    },
+    "monumental": {
+        "IPA": "\u02ccm\u0252n y\u0259 \u02c8m\u025bn tl",
+        "ending_syllable": "tl",
+        "secondary_stress": 0,
+        "stressed_syllable": 2,
+        "syllable_count": 4
+    },
+    "pistol": {
+        "IPA": "\u02c8p\u026as tl",
+        "ending_syllable": "tl",
+        "secondary_stress": null,
+        "stressed_syllable": 0,
+        "syllable_count": 2
+    },
+    "python": {
+        "IPA": "\u02c8pa\u026a \u03b8\u0252n",
+        "ending_syllable": "\u03b8\u0252n",
+        "secondary_stress": null,
+        "stressed_syllable": 0,
+        "syllable_count": 2
+    },
+    "red": {
+        "IPA": "r\u025bd",
+        "ending_syllable": "r\u025bd",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "salad": {
+        "IPA": "\u02c8s\u00e6l \u0259d",
+        "ending_syllable": "\u0259d",
+        "secondary_stress": null,
+        "stressed_syllable": 0,
+        "syllable_count": 2
+    },
+    "scissors": {
+        "IPA": "\u02c8s\u026az \u0259rz",
+        "ending_syllable": "\u0259rz",
+        "secondary_stress": null,
+        "stressed_syllable": 0,
+        "syllable_count": 2
+    },
+    "southern": {
+        "IPA": "\u02c8s\u028c\u00f0 \u0259rn",
+        "ending_syllable": "\u0259rn",
+        "secondary_stress": null,
+        "stressed_syllable": 0,
+        "syllable_count": 2
+    },
+    "tether": {
+        "IPA": "\u02c8t\u025b\u00f0 \u0259r",
+        "ending_syllable": "\u0259r",
+        "secondary_stress": null,
+        "stressed_syllable": 0,
+        "syllable_count": 2
+    }
+}
