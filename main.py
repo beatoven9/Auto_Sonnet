@@ -19,17 +19,8 @@ if __name__ == "__main__":
     json_file = 'dictionary.json'
 
     dict_data = json_Dictionary.decode_dict(json_file)
-        
-
-#    for arg in sys.argv[1:]:
-#        if arg in dict_data.keys():
-#            print("word: " + arg + " exists in dictionary\n")
-#        else:
-#            print("that word is not in the dictionary\n")
-#            dict_data[arg] = Word(arg).dict
-#    
     
-    file_name = 'word.txt'
+    file_name = sys.argv[1] 
 
     word_list = text_parser.parse_text(file_name)
     
