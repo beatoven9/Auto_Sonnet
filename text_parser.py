@@ -1,7 +1,5 @@
 #!/usr/bin/env python
-
-
-### This needs a way to handle punctuation.
+import string
 
 
 def parse_text(file):
@@ -10,6 +8,7 @@ def parse_text(file):
 
     for line in text.readlines():
         for word in line.split():
+            word = word.translate(str.maketrans('', '', string.punctuation)).lower()
             if word not in word_list:
                 word_list.append(word)
 

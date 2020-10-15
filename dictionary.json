@@ -1,72 +1,268 @@
 {
-    "blue": {
-        "IPA": "blu",
-        "ending_syllable": "blu",
+    "among": {
+        "IPA": "\u0259 \u02c8m\u028c\u014b",
+        "ending_syllable": "\u02c8m\u028c\u014b",
+        "secondary_stress": null,
+        "stressed_syllable": 1,
+        "syllable_count": 2
+    },
+    "bade": {
+        "IPA": "b\u00e6d",
+        "ending_syllable": "b\u00e6d",
         "secondary_stress": null,
         "stressed_syllable": null,
         "syllable_count": 1
     },
-    "january": {
-        "IPA": "\u02c8d\u0292\u00e6n yu \u02cc\u025br i",
-        "ending_syllable": "i",
-        "secondary_stress": 2,
+    "begin": {
+        "IPA": "b\u026a \u02c8g\u026an",
+        "ending_syllable": "\u02c8g\u026an",
+        "secondary_stress": null,
+        "stressed_syllable": 1,
+        "syllable_count": 2
+    },
+    "book": {
+        "IPA": "b\u028ak",
+        "ending_syllable": "b\u028ak",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "but": {
+        "IPA": "b\u028ct",
+        "ending_syllable": "b\u028ct",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "children": {
+        "IPA": "\u02c8t\u0283\u026al dr\u0259n",
+        "ending_syllable": "dr\u0259n",
+        "secondary_stress": null,
         "stressed_syllable": 0,
+        "syllable_count": 2
+    },
+    "demanded": {
+        "IPA": "d\u026a \u02c8m\u00e6nd",
+        "ending_syllable": "\u02c8m\u00e6nd",
+        "secondary_stress": null,
+        "stressed_syllable": 1,
+        "syllable_count": 2
+    },
+    "do": {
+        "IPA": "du",
+        "ending_syllable": "du",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "found": {
+        "IPA": "fa\u028and",
+        "ending_syllable": "fa\u028and",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "friends": {
+        "IPA": "fr\u025bnd",
+        "ending_syllable": "fr\u025bnd",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "has": {
+        "IPA": "h\u00e6z",
+        "ending_syllable": "h\u00e6z",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "i": {
+        "IPA": "a\u026a",
+        "ending_syllable": "a\u026a",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "impossible": {
+        "IPA": "\u026am \u02c8p\u0252s \u0259 b\u0259l",
+        "ending_syllable": "b\u0259l",
+        "secondary_stress": null,
+        "stressed_syllable": 1,
         "syllable_count": 4
     },
-    "monumental": {
-        "IPA": "\u02ccm\u0252n y\u0259 \u02c8m\u025bn tl",
-        "ending_syllable": "tl",
+    "in": {
+        "IPA": "\u026an",
+        "ending_syllable": "\u026an",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "introduce": {
+        "IPA": "\u02cc\u026an tr\u0259 \u02c8dus",
+        "ending_syllable": "\u02c8dus",
         "secondary_stress": 0,
         "stressed_syllable": 2,
-        "syllable_count": 4
+        "syllable_count": 3
     },
-    "pistol": {
-        "IPA": "\u02c8p\u026as tl",
-        "ending_syllable": "tl",
-        "secondary_stress": null,
-        "stressed_syllable": 0,
-        "syllable_count": 2
-    },
-    "python": {
-        "IPA": "\u02c8pa\u026a \u03b8\u0252n",
-        "ending_syllable": "\u03b8\u0252n",
-        "secondary_stress": null,
-        "stressed_syllable": 0,
-        "syllable_count": 2
-    },
-    "red": {
-        "IPA": "r\u025bd",
-        "ending_syllable": "r\u025bd",
+    "it": {
+        "IPA": "\u026at",
+        "ending_syllable": "\u026at",
         "secondary_stress": null,
         "stressed_syllable": null,
         "syllable_count": 1
     },
-    "salad": {
-        "IPA": "\u02c8s\u00e6l \u0259d",
-        "ending_syllable": "\u0259d",
+    "many": {
+        "IPA": "\u02c8m\u025bn i",
+        "ending_syllable": "i",
         "secondary_stress": null,
         "stressed_syllable": 0,
         "syllable_count": 2
     },
-    "scissors": {
-        "IPA": "\u02c8s\u026az \u0259rz",
-        "ending_syllable": "\u0259rz",
+    "me": {
+        "IPA": "mi",
+        "ending_syllable": "mi",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "my": {
+        "IPA": "ma\u026a",
+        "ending_syllable": "ma\u026a",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "one": {
+        "IPA": "w\u028cn",
+        "ending_syllable": "w\u028cn",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "present": {
+        "IPA": "\u02c8pr\u025bz \u0259nt",
+        "ending_syllable": "\u0259nt",
         "secondary_stress": null,
         "stressed_syllable": 0,
         "syllable_count": 2
     },
-    "southern": {
-        "IPA": "\u02c8s\u028c\u00f0 \u0259rn",
-        "ending_syllable": "\u0259rn",
+    "read": {
+        "IPA": "rid",
+        "ending_syllable": "rid",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "readers": {
+        "IPA": "\u02c8ri d\u0259r",
+        "ending_syllable": "d\u0259r",
         "secondary_stress": null,
         "stressed_syllable": 0,
         "syllable_count": 2
     },
-    "tether": {
-        "IPA": "\u02c8t\u025b\u00f0 \u0259r",
-        "ending_syllable": "\u0259r",
+    "see": {
+        "IPA": "si",
+        "ending_syllable": "si",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "story": {
+        "IPA": "\u02c8st\u0254r i",
+        "ending_syllable": "i",
         "secondary_stress": null,
         "stressed_syllable": 0,
         "syllable_count": 2
+    },
+    "that": {
+        "IPA": "\u00f0\u00e6t",
+        "ending_syllable": "\u00f0\u00e6t",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "the": {
+        "IPA": "\u00f0i",
+        "ending_syllable": "\u00f0i",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "there": {
+        "IPA": "\u00f0\u025b\u0259r",
+        "ending_syllable": "\u00f0\u025b\u0259r",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "they": {
+        "IPA": "\u00f0e\u026a",
+        "ending_syllable": "\u00f0e\u026a",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "thing": {
+        "IPA": "\u03b8\u026a\u014b",
+        "ending_syllable": "\u03b8\u026a\u014b",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "this": {
+        "IPA": "\u00f0\u026as",
+        "ending_syllable": "\u00f0\u026as",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "to": {
+        "IPA": "tu",
+        "ending_syllable": "tu",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "was": {
+        "IPA": "w\u028cz",
+        "ending_syllable": "w\u028cz",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "when": {
+        "IPA": "\u02b0w\u025bn",
+        "ending_syllable": "\u02b0w\u025bn",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "which": {
+        "IPA": "\u02b0w\u026at\u0283",
+        "ending_syllable": "\u02b0w\u026at\u0283",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "who": {
+        "IPA": "hu",
+        "ending_syllable": "hu",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "will": {
+        "IPA": "w\u026al",
+        "ending_syllable": "w\u026al",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
+    },
+    "you": {
+        "IPA": "yu",
+        "ending_syllable": "yu",
+        "secondary_stress": null,
+        "stressed_syllable": null,
+        "syllable_count": 1
     }
 }

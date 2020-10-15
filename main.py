@@ -14,6 +14,9 @@ import text_parser
 ###     When the program is closed, the json/python dictionary is encoded back to pure json once more.
 
 
+###     maybe all the functionality concerning json stuff should be kept in a class or in the very least, in the json dict file.
+
+
 if __name__ == "__main__":
    
     json_file = 'dictionary.json'

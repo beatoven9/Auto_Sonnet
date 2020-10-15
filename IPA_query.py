@@ -3,10 +3,24 @@ import requests
 from bs4 import BeautifulSoup
 
 ###     This works but it's a lot of branches for something very simple.
-###     
-###
+
+
+### This needs a way to handle words with endings/suffixes that reroute to the root
+###     example: demanded, demands, demander reroute to 'demand' the verb
+### 
+### one possible fix: (potentially slow)
+###     find the html that says the word we are looking for
+###     subtract that string from the string we're searching for
+###         first output those strings to console on a large text to see 
+###         what all of the potential cases are
+###         have those endings in a separate dictionary with a tuple as a value
+###             the tuple will contain:
+###                 the IPA for the final syllable and how it pertains to the root
+###                 an int for the number of syllables to be added to the root
+
 
 def set_IPA(site, word):
+    
     page = requests.get(site + word)
     soup = BeautifulSoup(page.content, 'html.parser')
     IPA_text = soup.find(class_='pron-ipa-content css-cqidvf evh0tcl2').text
